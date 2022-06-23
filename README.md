@@ -1,6 +1,7 @@
 -Hi, I’m @Agent-Daedalus
--I’m interested in Software + Game Development
+-I’m interested in Software + Game Development + AI
 -I’m currently learning Unity, C++
+-I want to learn Rust, C and Typescript in the future
 -I'm working on a video editor && an untitled game
 -I've learned the following languages: C#, Python, Java, English
--How to reach me: @agentdumbledore@gmail.com
+-How to reach me: @agentdumbledore@gmail.com 
